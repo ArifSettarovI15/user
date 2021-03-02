@@ -1,0 +1,16 @@
+{
+    "name": "arif/user",
+    "type": "library",
+    "description": "Your package description goes here",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "https://arif.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arif Settarov",
+            "email": "arif.settarov@mail.ru",
+            "homepage": "http://vk.com/idarif_it",
+            "role": "Developer"
+        }
+    ]
+}
