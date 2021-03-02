@@ -12,5 +12,10 @@
             "homepage": "http://vk.com/idarif_it",
             "role": "Developer"
         }
-    ]
-}
+    ],
+    "scripts": {
+        "post-package-install": [
+            "UserScript::postPackageInstall"
+        ]
+    }
+    }
